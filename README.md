@@ -35,5 +35,7 @@ npm run dev
 ```
 Returns a mocked AI answer + relevant learning resources (PPT/Video).
 
-## 🎥 Demo
+## 🎥 Demo Video
+[**Click here to watch the demo video**](demo_video.mp4)
+
 Open the frontend at `http://localhost:5173`, type a query like "Supabase", and see the results!
